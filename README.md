@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-saisharvani1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharvani-sakuru-sai/)](https://www.linkedin.com/in/sharvani-sakuru-sai/)
-[![Gmail Badge](https://img.shields.io/badge/-saisharvani1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saisharvani1@gmail.com)](mailto:pranjal27bhardwaj@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-saisharvani1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saisharvani1@gmail.com)](mailto:saisharvani1@gmail.com)
 ---
 <p  align="center"><img height="500" src = "https://github.com/sakurusurya2000/sakurusurya2000/blob/master/mee.gif"></p>
 
