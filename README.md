@@ -3,7 +3,7 @@
 ---
 <p  align="center"><img height="500" src = "https://github.com/saisharvani1/saisharvani1/blob/master/mee1.gif"></p>
 
-# Welcome
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I'm S Sai Sharvani, sophomore at TATA Institute of Social Sciences, Mumbai. I am experienced photoshop, illustrator and after effects. I also have experience with corel draw, indesign, premier pro, 3Ds Max and audition. Graphic design, typography and color correction are some of the areas I have gathered foundational knowledge. Experienced in making logos, visiting card, video editing, logo animation, title animation, social media post and photo retouching.
 
 ### Hi there 👋
