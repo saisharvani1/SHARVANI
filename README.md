@@ -4,14 +4,15 @@
 <p  align="center"><img height="500" src = "https://github.com/sakurusurya2000/sakurusurya2000/blob/master/mee.gif"></p>
 
 # Welcome
-I'm S Sai Sharvani, sophomore at TATA Institute of Social Sciences, Mumbai. I am experienced photoshop, illustrator and after effects. I also have experience with corel draw, indesign, premier pro, 3Ds Max and audition. Graphic design, typography and color correction are some of the areas I have gathered foundational knowledge. Experienced in making .
+I'm S Sai Sharvani, sophomore at TATA Institute of Social Sciences, Mumbai. I am experienced photoshop, illustrator and after effects. I also have experience with corel draw, indesign, premier pro, 3Ds Max and audition. Graphic design, typography and color correction are some of the areas I have gathered foundational knowledge. Experienced in making logos, visiting card, video editing, logo animation, title animation, social media post and photo retouching.
 
 ### Hi there 👋
-- 🔭 I’m currently working on ML, DL, DS, and Blockchain projects.
-- 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
-- 👯 I’m looking to collaborate on anything related to ML and Blockchain projects.
-- 💬 Open to questions about Data Analysis and projects I've worked on.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/suryateja-sakuru-sai/)
-- 😄 Pronouns: Machine Learning engineer and Data analyst.
+- 🔭 I’m currently pursuing B.Voc. in Graphics and Multimedia.
+- 👨🏼‍💻 Skilled in Photoshop, Illustrator and After effects.
+- 👯 I’m looking to collaborate on anything related to Graphic design, 3D modeling and Video editing.
+- 💬 Open to questions about Design and projects I've worked on.
+- 📫 How to reach me: [Gmail](saisharvani1@gmail.com)
+- 😄 Pronouns: Good Communication skills, content.
+- 📚 Fluent in English, Hindi and Telugu.
 
 
