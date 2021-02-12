@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-saisharvani1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharvani-sakuru-sai/)](https://www.linkedin.com/in/sharvani-sakuru-sai/)
 [![Gmail Badge](https://img.shields.io/badge/-saisharvani1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saisharvani1@gmail.com)](mailto:saisharvani1@gmail.com)
 ---
-<p  align="center"><img height="500" src = "https://github.com/sakurusurya2000/sakurusurya2000/blob/master/mee.gif"></p>
+<p  align="center"><img height="500" src = "https://github.com/sakurusurya2000/sakurusurya2000/blob/master/mee1.gif"></p>
 
 # Welcome
 I'm S Sai Sharvani, sophomore at TATA Institute of Social Sciences, Mumbai. I am experienced photoshop, illustrator and after effects. I also have experience with corel draw, indesign, premier pro, 3Ds Max and audition. Graphic design, typography and color correction are some of the areas I have gathered foundational knowledge. Experienced in making logos, visiting card, video editing, logo animation, title animation, social media post and photo retouching.
