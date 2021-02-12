@@ -11,7 +11,7 @@ I'm S Sai Sharvani, sophomore at TATA Institute of Social Sciences, Mumbai. I am
 - 👨🏼‍💻 Skilled in Photoshop, Illustrator and After effects.
 - 👯 I’m looking to collaborate on anything related to Graphic design, 3D modeling and Video editing.
 - 💬 Open to questions about Design and projects I've worked on.
-- 📫 How to reach me: [Gmail](saisharvani1@gmail.com)
+- 📫 How to reach me: saisharvani1@gmail.com
 - 😄 Pronouns: Good Communication skills, content.
 - 📚 Fluent in English, Hindi and Telugu.
 
